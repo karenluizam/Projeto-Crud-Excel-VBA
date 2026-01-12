@@ -2,7 +2,7 @@
 
 ## 🖥 Sobre o projeto
 O projeto consiste em formulários de CRUD funcionais feitos em VBA para um pequeno negócio de cosméticos naturais.
-O projeto em grupo fez parte da disciplina de Programação de Microinformática do 1° semestre do curso de Análise e Desenvolvimento de Sistemas da FATEC Ipiranga.
+O projeto em grupo fez parte da disciplina de Programação em Microinformática do 1° semestre do curso de Análise e Desenvolvimento de Sistemas da FATEC Ipiranga.
 Fui a líder do projeto, fazendo divisão de tarefas e dando feedbacks aos integrantes da equipe.
 
 ❗ Antes de abrir o arquivo, abra suas propriedades e habilite "Desbloquear" em Segurança.
